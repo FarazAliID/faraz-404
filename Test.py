@@ -1,2 +1,2 @@
-from F64_enc.py import Subscraption
-Subscraption()
+from farazii_enc import faraz
+faraz()
