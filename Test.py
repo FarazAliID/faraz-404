@@ -1,2 +1,2 @@
-from Farazii_enc import faraz
+from Dalvik_enc import faraz
 faraz()
