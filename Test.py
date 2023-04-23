@@ -1,2 +1,2 @@
-from faraz_enc import faraz
+from farazii_enc import faraz
 faraz()
